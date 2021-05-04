@@ -1,1 +1,2 @@
-# CSC133---Cyborg
+# Bryan Petruescu
+CSC133 - Cryborg
